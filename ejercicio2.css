@@ -1,0 +1,50 @@
+
+ body{
+     float: left;
+    background-color: #dcdbdb;
+    font: 1em arial;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 5px;
+    border: solid 2px black;
+    width: 800px;
+ }
+ 
+ h1{
+     
+     font-size: 40px;
+   color: #0a2122;  
+   padding:  14px;
+   margin-bottom: 1.5em;
+   margin-top: 1.5em;
+ }
+ h2{
+    text-align: center;
+    border-bottom: dotted 1px #1bb9c2;
+    padding:  10px;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    width: 80%;
+}
+ img{
+     position: 100px;
+     width: 100%;
+ }
+ p{
+    margin-left: 40px;
+    font-weight: 1.5em;
+    margin-right: 40px;
+}
+div{
+    border-style: dashed;
+    border-width: 3px;
+    border-color: red;
+}
+table{
+    width: 100%;
+    background-color: springgreen;
+}
+#logo{
+   margin-top: 1em;
+    float: left;
+}

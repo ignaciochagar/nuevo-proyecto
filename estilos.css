@@ -1,0 +1,40 @@
+h1,h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 30px;
+    color: #313131;
+}
+h2{
+    font-size: 22px;
+    color:blue;
+}
+
+p{
+    font-size: 14px;
+    color: darkgray;
+
+}
+#cabecera{
+    background-color: green;
+    padding: 14px;
+}
+#cabecera:hover{
+    background-color: white;
+}
+a{
+    color: green;
+}
+a:hover{
+    color: orange;
+}
+#primer-parrafo{
+    font-style: italic;
+    font-weight: 900;
+}
+.parrafo-par{
+    color: black;
+}
+.parrafo-iw{
+    font-size: 18px;
+}
